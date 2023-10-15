@@ -1,4 +1,4 @@
-# DobaraMatPuchana
+# INTERNSHIP TIE
 
 ## **Jyoti** : Assistant for blind
 
